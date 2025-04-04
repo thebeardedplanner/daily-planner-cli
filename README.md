@@ -21,7 +21,7 @@ git clone https://github.com/yourusername/daily-planner-cli.git
 cd daily-planner-cli
 ```
 
-### Option 2: [📦 Download the ZIP](sandbox:/mnt/data/daily-planner-cli.zip)
+### Option 2: [📦 Download the ZIP](daily-planner-cli.zip)
 2. (Optional) Create a virtual environment:
 ```bash
 python -m venv venv
