@@ -1,6 +1,5 @@
 # daily-planner-cli
 
-# Daily Planner CLI
 
 A minimalist command-line planner tool built in Python. Designed for focused individuals who want to log daily tasks, track completions, and stay organized. Inspired by the mindset of *The Bearded Planner* — automate the chaos, plan with purpose.
 
